@@ -50,9 +50,9 @@ It can analyze emotions **in real time via webcam** or from **pre-recorded video
 ---
 
 ## ⚙️ Installation
-
-### 1️⃣ Clone the Repository
 ```bash
+1️⃣ Clone the Repository
+
 git clone https://github.com/saksham-45/MoodScope.git
 cd MoodScope
 
