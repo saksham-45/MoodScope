@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/NeuroScope.iml" filepath="$PROJECT_DIR$/.idea/NeuroScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MoodScope.iml" filepath="$PROJECT_DIR$/.idea/MoodScope.iml" />
     </modules>
   </component>
 </project>
