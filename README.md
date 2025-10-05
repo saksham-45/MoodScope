@@ -143,7 +143,6 @@ http://localhost:11434
 
 Saksham Srivastava
 📍 Developer & AI Enthusiast
-🔗 GitHub Profile
 
 ⸻
 
