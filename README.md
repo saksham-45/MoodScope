@@ -66,8 +66,6 @@ venv\Scripts\activate        # On Windows
 
 pip install -r requirements.txt
 
-(If you don’t have a requirements.txt, you can generate one using pip freeze > requirements.txt.)
-
 4️⃣ Download or Train the Emotion Model
 
 Place your trained model in the project root as:
